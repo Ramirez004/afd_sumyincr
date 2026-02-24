@@ -111,7 +111,7 @@ contador++
 # ▶ Ejecutar en Python
 
 ```
-python3 programa.py entrada.txt
+python3 afs2.py entrada.txt
 ```
 
 ---
