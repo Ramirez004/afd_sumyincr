@@ -121,13 +121,13 @@ python3 programa.py entrada.txt
 Compilar:
 
 ```
-gcc afd.c -o afd
+gcc afd2.c -o afd
 ```
 
 Ejecutar:
 
 ```
-./afd entrada.txt
+./afd2 entrada.txt
 ```
 
 ---
